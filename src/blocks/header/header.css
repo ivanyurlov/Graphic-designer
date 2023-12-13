@@ -1,0 +1,24 @@
+.header {
+  max-width: 880px;
+  background: url(../../images/Artboard\ 1-100.jpg);
+  background-size: cover;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  padding: 60px 200px 20px;
+  border-bottom: 2px solid rgb(140, 237, 254, 0.5);
+}
+
+@media (max-width: 950px) {
+  .header {
+    padding: 45px 93px 15px;
+  }
+}
+
+@media (max-width: 550px) {
+  .header {
+    padding: 36px 27px 15px;
+  }
+}

@@ -1,0 +1,9 @@
+.contacts {
+  min-height: calc(100vh - 425px);
+}
+
+@media (max-width: 950px) {
+  .contacts {
+    min-height: calc(100vh - 366px);
+  }
+}

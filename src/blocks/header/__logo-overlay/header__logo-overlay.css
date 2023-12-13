@@ -1,0 +1,42 @@
+.header__logo-overlay {
+  width: 100px;
+  height: 100px;
+  object-position: 50% 50%;
+  position: relative;
+  cursor: pointer;
+  background-color: rgba(255,255,255, 0);
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 950px) {
+  .header__logo-overlay {
+    width: 80px;
+    height: 80px;
+  }
+}
+
+@media (max-width: 550px) {
+  .header__logo-overlay {
+    width: 60px;
+    height: 60px;
+  }
+}
+
+.header__logo-overlay::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  pointer-events: none;
+  transition: opacity 0.3s linear;
+}
+
+.header__logo-overlay:hover {
+  opacity: 0.6;
+}

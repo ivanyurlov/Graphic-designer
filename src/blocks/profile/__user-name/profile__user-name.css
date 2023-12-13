@@ -1,0 +1,20 @@
+.profile__user-name {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  color: #FDBAB2;
+  font-family: 'Lobster';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 48px;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 550px) {
+  .profile__user-name {
+    font-size: 27px;
+    line-height: 33px;
+  }
+}

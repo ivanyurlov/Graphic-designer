@@ -1,0 +1,23 @@
+.not-found__link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #FDBAB2;
+  text-decoration: none;
+  margin: 40px 0 0;
+  padding: 0;
+  transition: opacity 0.3s linear;
+}
+
+.not-found__link:hover {
+  opacity: 0.7;
+}
+
+@media (max-width: 520px) {
+  .not-found__link {
+    font-size: 12px;
+    line-height: 14px;
+    margin: 284px 0 0;
+  }
+}

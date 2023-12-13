@@ -1,0 +1,26 @@
+.popup__container_large {
+  display: flex;
+  max-width: 650px;
+  max-height: 650px;
+  border-radius: 0;
+  padding: 0;
+}
+
+@media (max-width: 880px) {
+  .popup__container_large {
+    max-width: 550px;
+  }
+}
+
+@media (max-width: 660px) {
+  .popup__container_large {
+    max-width: 450px;
+  }
+}
+
+@media (max-width: 520px) {
+  .popup__container_large {
+    max-width: 282px;
+    min-height: 282px;
+  }
+}

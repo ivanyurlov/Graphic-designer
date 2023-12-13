@@ -1,0 +1,16 @@
+.burger-nav-bar__link {
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+  color: #000000;
+  margin: 10px auto 5px;
+  padding: 5px 10px;
+  transition: opacity 0.3s linear;
+  border: 3px solid #8CEDFE;
+  border-radius: 5px;
+  background-color: #8CEDFE;
+}
+
+.burger-nav-bar__link:hover {
+  opacity: 0.8;
+}

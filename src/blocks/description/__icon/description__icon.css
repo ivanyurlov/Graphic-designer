@@ -1,0 +1,18 @@
+.description__icon {
+  background-image: url(../../../images/Close-Icon.png);
+  background: #234D63;
+  background-repeat: no-repeat;
+  background-size: contain;
+  max-width: 25px;
+  max-height: 25px;
+  margin-left: 20px;
+  padding: 0;
+}
+
+@media (max-width: 550px) {
+  .description__icon {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+  }
+}

@@ -1,0 +1,16 @@
+.profile__text {
+  max-width: 396px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 550px) {
+  .profile__text {
+    max-width: 291px;
+    gap: 6px;
+  }
+}

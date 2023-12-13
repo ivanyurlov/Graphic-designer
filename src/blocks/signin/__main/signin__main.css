@@ -1,0 +1,22 @@
+.signin__main {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-left: 200px;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+}
+
+@media (max-width: 950px) {
+  .signin__main {
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 550px) {
+  .signin__main {
+    display: none;
+  }
+}

@@ -1,0 +1,15 @@
+.signin__link {
+  width: 100px;
+  text-decoration: none;
+  color: #000000;
+  margin: 15px auto 5px;
+  padding: 5px 10px;
+  transition: opacity 0.3s linear;
+  border: 3px solid #8CEDFE;
+  border-radius: 5px;
+  background-color: #8CEDFE;
+}
+
+.signin__link:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,20 @@
+.description__icon_change {
+  max-width: 50px;
+  max-height: 50px;
+  margin-left: 5px;
+  padding: 0;
+  background: #234D63;
+  transition: opacity 0.3s linear;
+}
+
+.description__icon_change:hover {
+  opacity: 0.6;
+}
+
+@media (max-width: 550px) {
+  .description__icon_change {
+    width: 30px;
+    height: 30px;
+    margin-left: 3px;
+  }
+}

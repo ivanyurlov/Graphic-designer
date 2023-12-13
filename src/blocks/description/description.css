@@ -1,0 +1,21 @@
+.description {
+  max-width: 880px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin: 40px auto 30px;
+  padding: 0;
+}
+
+@media (max-width: 1100px) {
+  .description {
+    padding: 0 100px;
+  }
+}
+
+@media (max-width: 550px) {
+  .description {
+    margin: 20px auto 15px;
+    padding: 0 27px;
+  }
+}

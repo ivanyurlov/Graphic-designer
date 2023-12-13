@@ -1,0 +1,18 @@
+.description__title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 24px;
+  color: #FFFFFF;
+  margin: 0;
+  padding: 0 80px 8px;
+}
+
+@media (max-width: 550px) {
+  .description__title {
+    padding: 0 60px 6px;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+  }
+}

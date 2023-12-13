@@ -1,0 +1,7 @@
+.description__cell {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 3px 0 3px;
+  padding: 0;
+}

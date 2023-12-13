@@ -1,0 +1,21 @@
+.footer {
+  background: url(../../images/Artboard\ 1-100.jpg);
+  background-size: cover;
+  max-width: 880px;
+  position: relative;
+  margin: 30px auto 0;
+  padding: 40px 200px 60px;
+}
+
+@media (max-width: 950px) {
+  .footer {
+    padding: 40px 93px 41px;
+  }
+}
+
+@media (max-width: 550px) {
+  .footer {
+    margin: 20px auto 0;
+    padding: 24px 27px 36px;
+  }
+}

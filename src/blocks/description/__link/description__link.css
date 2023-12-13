@@ -1,0 +1,21 @@
+.description__link {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #8CEDFE;
+  margin: 0;
+  padding: 0;
+  transition: opacity 0.3s linear;
+}
+
+.description__link:hover {
+  opacity: 0.6;
+}
+
+@media (max-width: 550px) {
+  .description__link {
+    font-size: 14px;
+    line-height: 17px;
+  }
+}

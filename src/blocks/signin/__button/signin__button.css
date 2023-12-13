@@ -1,0 +1,15 @@
+.signin__button {
+  width: 125px;
+  margin: 15px auto 5px;
+  padding: 5px 10px;
+  transition: opacity 0.3s linear;
+  border: 3px solid #8CEDFE;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #8CEDFE;
+  font-weight: 900;
+}
+
+.signin__button:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,18 @@
+.description__text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  color: #FFFFFF;
+  white-space: pre-line;
+  text-indent: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 550px) {
+  .description__text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}

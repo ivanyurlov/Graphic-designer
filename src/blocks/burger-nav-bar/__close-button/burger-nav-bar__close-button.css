@@ -1,0 +1,25 @@
+.burger-nav-bar__close-button {
+  background-image: url(../../../images/Close-Icon.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  color: #FFFFFF;
+  top: 139px;
+  right: 25px;
+  width: 25px;
+  height: 25px;
+  background-color: rgba(255,255,255, 0);
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.3s linear;
+}
+
+.burger-nav-bar__close-button:hover {
+  opacity: 0.6;
+}
+
+@media (max-width: 550px) {
+  .burger-nav-bar__close-button {
+    top: 52px;
+  }
+}
