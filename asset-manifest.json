@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Graphic-designer/static/css/main.3c7a26ab.css",
+    "main.css": "/Graphic-designer/static/css/main.6939b782.css",
     "main.js": "/Graphic-designer/static/js/main.3dd4d3e4.js",
     "static/js/787.8540cf75.chunk.js": "/Graphic-designer/static/js/787.8540cf75.chunk.js",
     "static/media/marketplaceCard2.jpg": "/Graphic-designer/static/media/marketplaceCard2.8ceb6ad09b80d12669d1.jpg",
@@ -70,12 +70,12 @@
     "static/media/Pen.svg": "/Graphic-designer/static/media/Pen.8667ac4a523e8fc42e59.svg",
     "static/media/Plus-small.svg": "/Graphic-designer/static/media/Plus-small.54b1426515811a15ebaf.svg",
     "static/media/Plus.svg": "/Graphic-designer/static/media/Plus.d86bb2edc2f6eadb96b7.svg",
-    "main.3c7a26ab.css.map": "/Graphic-designer/static/css/main.3c7a26ab.css.map",
+    "main.6939b782.css.map": "/Graphic-designer/static/css/main.6939b782.css.map",
     "main.3dd4d3e4.js.map": "/Graphic-designer/static/js/main.3dd4d3e4.js.map",
     "787.8540cf75.chunk.js.map": "/Graphic-designer/static/js/787.8540cf75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c7a26ab.css",
+    "static/css/main.6939b782.css",
     "static/js/main.3dd4d3e4.js"
   ]
 }
