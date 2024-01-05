@@ -17,5 +17,5 @@
 * HTML5
 * JavaScript
 ## Ссылка на проект:
-* Ссылка на проект: https://ivanyurlov.github.io/Graphic-designer/#
+* Ссылка на проект: https://ivanyurlov.github.io/Graphic-designer/
 * Адрес репозитория: https://github.com/ivanyurlov/Graphic-designer
